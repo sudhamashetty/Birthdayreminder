@@ -1,0 +1,12 @@
+body {
+  background: #f9f9f9;
+}
+
+.card {
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+#birthdayList {
+  max-height: 500px;
+  overflow-y: auto;
+}
